@@ -1,5 +1,6 @@
 ----[ Breakfast ]----
 
 ----[ Lunch ]----
-
+The Lunch Special is 1 bottle of whisky and 5 donuts
+Other options are 5 packs of cigarettes and 12 waffles
 ----[ Dinner ]----
